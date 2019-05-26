@@ -1,2 +1,2 @@
 # OpenCV_haarcascade
-haarcascade detection
+Face detection and various body part detection using OpenCV
